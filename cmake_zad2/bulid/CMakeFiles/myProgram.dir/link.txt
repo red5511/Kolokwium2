@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/myProgram.dir/home/maciek/KOL2/cmake/main.cpp.o  -o myProgram 

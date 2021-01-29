@@ -1,0 +1,4 @@
+/home/maciek/KOL2/cmake_zad3/CMakeFiles/edit_cache.dir
+/home/maciek/KOL2/cmake_zad3/CMakeFiles/Student.dir
+/home/maciek/KOL2/cmake_zad3/CMakeFiles/rebuild_cache.dir
+/home/maciek/KOL2/cmake_zad3/CMakeFiles/myProgram.dir

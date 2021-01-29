@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maciek/KOL2/cmake_zad3/src/Student.cpp
+iostream
+-
+Student.h
+/home/maciek/KOL2/cmake_zad3/src/Student.h
+
+include/Student.h
+string
+-
+

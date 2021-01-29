@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/myProgram.dir/src/Student.cpp.o  -o myProgram  -L/home/maciek/KOL2/cmake_zad3 -Wl,-rpath,/home/maciek/KOL2/cmake_zad3 -Wl,-Bstatic -ltest -Wl,-Bdynamic 

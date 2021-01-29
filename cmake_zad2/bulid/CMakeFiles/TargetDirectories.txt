@@ -1,0 +1,3 @@
+/home/maciek/KOL2/cmake/bulid/CMakeFiles/rebuild_cache.dir
+/home/maciek/KOL2/cmake/bulid/CMakeFiles/myProgram.dir
+/home/maciek/KOL2/cmake/bulid/CMakeFiles/edit_cache.dir
